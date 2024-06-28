@@ -5,7 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "common-env": "^6.1.0",
-    "hapi": "^17.5.5",
+    "hapi": "^17.8.5",
     "hapi-log-requests": "^1.0.3",
     "inert": "^5.1.0",
     "joi": "^13.6.0",
